@@ -1,2 +1,2 @@
 # ML-Lectures
-Repo for My Lecture Assignments 
+Repo for My Lectures and Assignments 
